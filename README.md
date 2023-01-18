@@ -1,5 +1,7 @@
 ### Aircraft Checklist and AFM for N1182H 
 
+![N1182H.png](N1182H.png)
+
 This repo has a copy of the checklist and AFM I have developed and documented for use with the plane. 
 
 **Files**
