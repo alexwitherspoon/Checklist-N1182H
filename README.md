@@ -4,6 +4,12 @@
 
 This repo has a copy of the checklist and AFM I have developed and documented for use with the plane. 
 
+**Printing**
+
+Print out double-sided at 60% scale for small version, or 100% for full size version.
+
+Laminate the checklist, and place in aircraft.
+
 **Files**
 
 `./Checklist `
