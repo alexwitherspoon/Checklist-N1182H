@@ -2,7 +2,7 @@
 
 ![N1182H.png](N1182H.png)
 
-This repo has a copy of the checklist and AFM I have developed and documented for use with the plane. 
+This repo has a copy of the checklist and AFM I have developed and documented for use with the plane. I wrote up how and why I did this here: [Blog post](https://alexwitherspoon.com/logs/creating-an-aircraft-checklist/)
 
 **Printing**
 
